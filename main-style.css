@@ -1,0 +1,46 @@
+ body {
+
+ 	background: #313638;
+ 	font-family: "Century Gothic";
+ 	color: white;
+
+ }
+ head h1 {
+ 	font-size: 90px;
+
+ }
+
+ header { 
+
+ 	 margin-top: 500px;
+      background: #313638;
+      width: 100px;
+      height: 120px;
+ 
+ }
+
+
+  nav a {
+  	padding: 10px 10px 10px 10px;
+  	text-decoration: none;
+  	border: 1px #313638 solid;
+  	color: #EFEFEF;
+
+ }
+
+  nav a:hover {
+
+  border: 1px #EFEFEF solid;
+
+ }
+
+  nav {
+  	position: fixed;
+  	width: 100px;
+  	top: 0;
+  	right: 0;
+  	background-color: #313638;
+
+ }
+
+   
